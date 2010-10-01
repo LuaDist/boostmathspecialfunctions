@@ -1,0 +1,14 @@
+--- This file is part of the LuaDist project
+
+name = "boostmathspecialfunctions"
+version = "0.1.1"
+
+desc = "Binding for Boost math library"
+author = "David Manura"
+license = "MIT"
+url = "http://lua-users.org/wiki/DavidManura"
+maintainer = "David Manura"
+
+depends = {
+        "lua ~> 5.1"
+}
